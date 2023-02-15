@@ -1,0 +1,100 @@
+all: main.exe
+
+clean:
+    del *.obj /s
+    del *.exe /s
+    del sourcefiles.txt
+
+brianlib\randomkit\randomkit.obj: win_makefile
+    cl /c /EHsc /I. -Ibrianlib/randomkit -ID:\ProgramData\Anaconda3\envs\mybrian\Library\include /Ox /w  /MP  brianlib/randomkit/randomkit.c /Fobrianlib\randomkit\randomkit.obj 
+    
+code_objects\before_run_synapses_1_pre_push_spikes.obj: win_makefile
+    cl /c /EHsc /I. -Ibrianlib/randomkit -ID:\ProgramData\Anaconda3\envs\mybrian\Library\include /Ox /w  /MP  code_objects/before_run_synapses_1_pre_push_spikes.cpp /Focode_objects\before_run_synapses_1_pre_push_spikes.obj 
+    
+code_objects\before_run_synapses_2_pre_push_spikes.obj: win_makefile
+    cl /c /EHsc /I. -Ibrianlib/randomkit -ID:\ProgramData\Anaconda3\envs\mybrian\Library\include /Ox /w  /MP  code_objects/before_run_synapses_2_pre_push_spikes.cpp /Focode_objects\before_run_synapses_2_pre_push_spikes.obj 
+    
+code_objects\before_run_synapses_3_pre_push_spikes.obj: win_makefile
+    cl /c /EHsc /I. -Ibrianlib/randomkit -ID:\ProgramData\Anaconda3\envs\mybrian\Library\include /Ox /w  /MP  code_objects/before_run_synapses_3_pre_push_spikes.cpp /Focode_objects\before_run_synapses_3_pre_push_spikes.obj 
+    
+code_objects\before_run_synapses_pre_push_spikes.obj: win_makefile
+    cl /c /EHsc /I. -Ibrianlib/randomkit -ID:\ProgramData\Anaconda3\envs\mybrian\Library\include /Ox /w  /MP  code_objects/before_run_synapses_pre_push_spikes.cpp /Focode_objects\before_run_synapses_pre_push_spikes.obj 
+    
+code_objects\neurongroup_1_resetter_codeobject.obj: win_makefile
+    cl /c /EHsc /I. -Ibrianlib/randomkit -ID:\ProgramData\Anaconda3\envs\mybrian\Library\include /Ox /w  /MP  code_objects/neurongroup_1_resetter_codeobject.cpp /Focode_objects\neurongroup_1_resetter_codeobject.obj 
+    
+code_objects\neurongroup_1_stateupdater_codeobject.obj: win_makefile
+    cl /c /EHsc /I. -Ibrianlib/randomkit -ID:\ProgramData\Anaconda3\envs\mybrian\Library\include /Ox /w  /MP  code_objects/neurongroup_1_stateupdater_codeobject.cpp /Focode_objects\neurongroup_1_stateupdater_codeobject.obj 
+    
+code_objects\neurongroup_1_thresholder_codeobject.obj: win_makefile
+    cl /c /EHsc /I. -Ibrianlib/randomkit -ID:\ProgramData\Anaconda3\envs\mybrian\Library\include /Ox /w  /MP  code_objects/neurongroup_1_thresholder_codeobject.cpp /Focode_objects\neurongroup_1_thresholder_codeobject.obj 
+    
+code_objects\neurongroup_resetter_codeobject.obj: win_makefile
+    cl /c /EHsc /I. -Ibrianlib/randomkit -ID:\ProgramData\Anaconda3\envs\mybrian\Library\include /Ox /w  /MP  code_objects/neurongroup_resetter_codeobject.cpp /Focode_objects\neurongroup_resetter_codeobject.obj 
+    
+code_objects\neurongroup_stateupdater_codeobject.obj: win_makefile
+    cl /c /EHsc /I. -Ibrianlib/randomkit -ID:\ProgramData\Anaconda3\envs\mybrian\Library\include /Ox /w  /MP  code_objects/neurongroup_stateupdater_codeobject.cpp /Focode_objects\neurongroup_stateupdater_codeobject.obj 
+    
+code_objects\neurongroup_thresholder_codeobject.obj: win_makefile
+    cl /c /EHsc /I. -Ibrianlib/randomkit -ID:\ProgramData\Anaconda3\envs\mybrian\Library\include /Ox /w  /MP  code_objects/neurongroup_thresholder_codeobject.cpp /Focode_objects\neurongroup_thresholder_codeobject.obj 
+    
+code_objects\spikegeneratorgroup_codeobject.obj: win_makefile
+    cl /c /EHsc /I. -Ibrianlib/randomkit -ID:\ProgramData\Anaconda3\envs\mybrian\Library\include /Ox /w  /MP  code_objects/spikegeneratorgroup_codeobject.cpp /Focode_objects\spikegeneratorgroup_codeobject.obj 
+    
+code_objects\spikemonitor_codeobject.obj: win_makefile
+    cl /c /EHsc /I. -Ibrianlib/randomkit -ID:\ProgramData\Anaconda3\envs\mybrian\Library\include /Ox /w  /MP  code_objects/spikemonitor_codeobject.cpp /Focode_objects\spikemonitor_codeobject.obj 
+    
+code_objects\synapses_1_pre_codeobject.obj: win_makefile
+    cl /c /EHsc /I. -Ibrianlib/randomkit -ID:\ProgramData\Anaconda3\envs\mybrian\Library\include /Ox /w  /MP  code_objects/synapses_1_pre_codeobject.cpp /Focode_objects\synapses_1_pre_codeobject.obj 
+    
+code_objects\synapses_1_pre_push_spikes.obj: win_makefile
+    cl /c /EHsc /I. -Ibrianlib/randomkit -ID:\ProgramData\Anaconda3\envs\mybrian\Library\include /Ox /w  /MP  code_objects/synapses_1_pre_push_spikes.cpp /Focode_objects\synapses_1_pre_push_spikes.obj 
+    
+code_objects\synapses_1_synapses_create_array_codeobject.obj: win_makefile
+    cl /c /EHsc /I. -Ibrianlib/randomkit -ID:\ProgramData\Anaconda3\envs\mybrian\Library\include /Ox /w  /MP  code_objects/synapses_1_synapses_create_array_codeobject.cpp /Focode_objects\synapses_1_synapses_create_array_codeobject.obj 
+    
+code_objects\synapses_2_pre_codeobject.obj: win_makefile
+    cl /c /EHsc /I. -Ibrianlib/randomkit -ID:\ProgramData\Anaconda3\envs\mybrian\Library\include /Ox /w  /MP  code_objects/synapses_2_pre_codeobject.cpp /Focode_objects\synapses_2_pre_codeobject.obj 
+    
+code_objects\synapses_2_pre_push_spikes.obj: win_makefile
+    cl /c /EHsc /I. -Ibrianlib/randomkit -ID:\ProgramData\Anaconda3\envs\mybrian\Library\include /Ox /w  /MP  code_objects/synapses_2_pre_push_spikes.cpp /Focode_objects\synapses_2_pre_push_spikes.obj 
+    
+code_objects\synapses_2_synapses_create_array_codeobject.obj: win_makefile
+    cl /c /EHsc /I. -Ibrianlib/randomkit -ID:\ProgramData\Anaconda3\envs\mybrian\Library\include /Ox /w  /MP  code_objects/synapses_2_synapses_create_array_codeobject.cpp /Focode_objects\synapses_2_synapses_create_array_codeobject.obj 
+    
+code_objects\synapses_3_pre_codeobject.obj: win_makefile
+    cl /c /EHsc /I. -Ibrianlib/randomkit -ID:\ProgramData\Anaconda3\envs\mybrian\Library\include /Ox /w  /MP  code_objects/synapses_3_pre_codeobject.cpp /Focode_objects\synapses_3_pre_codeobject.obj 
+    
+code_objects\synapses_3_pre_push_spikes.obj: win_makefile
+    cl /c /EHsc /I. -Ibrianlib/randomkit -ID:\ProgramData\Anaconda3\envs\mybrian\Library\include /Ox /w  /MP  code_objects/synapses_3_pre_push_spikes.cpp /Focode_objects\synapses_3_pre_push_spikes.obj 
+    
+code_objects\synapses_3_synapses_create_array_codeobject.obj: win_makefile
+    cl /c /EHsc /I. -Ibrianlib/randomkit -ID:\ProgramData\Anaconda3\envs\mybrian\Library\include /Ox /w  /MP  code_objects/synapses_3_synapses_create_array_codeobject.cpp /Focode_objects\synapses_3_synapses_create_array_codeobject.obj 
+    
+code_objects\synapses_pre_codeobject.obj: win_makefile
+    cl /c /EHsc /I. -Ibrianlib/randomkit -ID:\ProgramData\Anaconda3\envs\mybrian\Library\include /Ox /w  /MP  code_objects/synapses_pre_codeobject.cpp /Focode_objects\synapses_pre_codeobject.obj 
+    
+code_objects\synapses_pre_push_spikes.obj: win_makefile
+    cl /c /EHsc /I. -Ibrianlib/randomkit -ID:\ProgramData\Anaconda3\envs\mybrian\Library\include /Ox /w  /MP  code_objects/synapses_pre_push_spikes.cpp /Focode_objects\synapses_pre_push_spikes.obj 
+    
+code_objects\synapses_synapses_create_array_codeobject.obj: win_makefile
+    cl /c /EHsc /I. -Ibrianlib/randomkit -ID:\ProgramData\Anaconda3\envs\mybrian\Library\include /Ox /w  /MP  code_objects/synapses_synapses_create_array_codeobject.cpp /Focode_objects\synapses_synapses_create_array_codeobject.obj 
+    
+main.obj: win_makefile
+    cl /c /EHsc /I. -Ibrianlib/randomkit -ID:\ProgramData\Anaconda3\envs\mybrian\Library\include /Ox /w  /MP  main.cpp /Fomain.obj 
+    
+network.obj: win_makefile
+    cl /c /EHsc /I. -Ibrianlib/randomkit -ID:\ProgramData\Anaconda3\envs\mybrian\Library\include /Ox /w  /MP  network.cpp /Fonetwork.obj 
+    
+objects.obj: win_makefile
+    cl /c /EHsc /I. -Ibrianlib/randomkit -ID:\ProgramData\Anaconda3\envs\mybrian\Library\include /Ox /w  /MP  objects.cpp /Foobjects.obj 
+    
+run.obj: win_makefile
+    cl /c /EHsc /I. -Ibrianlib/randomkit -ID:\ProgramData\Anaconda3\envs\mybrian\Library\include /Ox /w  /MP  run.cpp /Forun.obj 
+    
+synapses_classes.obj: win_makefile
+    cl /c /EHsc /I. -Ibrianlib/randomkit -ID:\ProgramData\Anaconda3\envs\mybrian\Library\include /Ox /w  /MP  synapses_classes.cpp /Fosynapses_classes.obj 
+    
+
+main.exe: brianlib\randomkit\randomkit.obj code_objects\before_run_synapses_1_pre_push_spikes.obj code_objects\before_run_synapses_2_pre_push_spikes.obj code_objects\before_run_synapses_3_pre_push_spikes.obj code_objects\before_run_synapses_pre_push_spikes.obj code_objects\neurongroup_1_resetter_codeobject.obj code_objects\neurongroup_1_stateupdater_codeobject.obj code_objects\neurongroup_1_thresholder_codeobject.obj code_objects\neurongroup_resetter_codeobject.obj code_objects\neurongroup_stateupdater_codeobject.obj code_objects\neurongroup_thresholder_codeobject.obj code_objects\spikegeneratorgroup_codeobject.obj code_objects\spikemonitor_codeobject.obj code_objects\synapses_1_pre_codeobject.obj code_objects\synapses_1_pre_push_spikes.obj code_objects\synapses_1_synapses_create_array_codeobject.obj code_objects\synapses_2_pre_codeobject.obj code_objects\synapses_2_pre_push_spikes.obj code_objects\synapses_2_synapses_create_array_codeobject.obj code_objects\synapses_3_pre_codeobject.obj code_objects\synapses_3_pre_push_spikes.obj code_objects\synapses_3_synapses_create_array_codeobject.obj code_objects\synapses_pre_codeobject.obj code_objects\synapses_pre_push_spikes.obj code_objects\synapses_synapses_create_array_codeobject.obj main.obj network.obj objects.obj run.obj synapses_classes.obj  win_makefile sourcefiles.txt
+    link @sourcefiles.txt /LIBPATH:brianlib/randomkit /LIBPATH:D:\ProgramData\Anaconda3\envs\mybrian\Library\Lib advapi32.lib /LIBPATH:. /OUT:main.exe 

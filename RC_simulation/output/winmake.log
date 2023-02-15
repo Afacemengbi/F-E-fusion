@@ -1,0 +1,225 @@
+MSVC environment: 
+allusersprofile=C:\ProgramData
+appdata=C:\Users\XX\AppData\Roaming
+asl.log=Destination=file
+chrome_crashpad_pipe_name=\\.\pipe\crashpad_9332_MIQKTVJIWHKDTRWI
+com.adobe.versioncue.client.applocale=zh_CN
+com.adobe.versioncue.client.appname=AdobeDrive
+com.adobe.versioncue.client.appversion=1.0.0
+commandprompttype=Cross
+commonprogramfiles=C:\Program Files\Common Files
+commonprogramfiles(x86)=C:\Program Files (x86)\Common Files
+commonprogramw6432=C:\Program Files\Common Files
+computername=DESKTOP-FA6EJ55
+comspec=C:\Windows\system32\cmd.exe
+conda_default_env=picture
+conda_exe=D:\ProgramData\Anaconda3\Scripts\conda.exe
+conda_prefix=D:\ProgramData\Anaconda3\envs\picture
+conda_prompt_modifier=(picture) 
+conda_python_exe=D:\ProgramData\Anaconda3\python.exe
+conda_shlvl=1
+cuda_path=C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v9.0
+cuda_path_v10_0=C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.0
+cuda_path_v9_0=C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v9.0
+cuda_path_v9_2=C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v9.2
+devenvdir=C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\
+driverdata=C:\Windows\System32\Drivers\DriverData
+extensionsdkdir=C:\Program Files (x86)\Microsoft SDKs\Windows Kits\10\ExtensionSDKs
+fps_browser_app_profile_string=Internet Explorer
+fps_browser_user_profile_string=Default
+framework40version=v4.0
+frameworkdir=C:\Windows\Microsoft.NET\Framework\
+frameworkdir32=C:\Windows\Microsoft.NET\Framework\
+frameworkdir64=C:\Windows\Microsoft.NET\Framework64\
+frameworkversion=v4.0.30319
+frameworkversion32=v4.0.30319
+frameworkversion64=v4.0.30319
+homedrive=C:
+homepath=\Users\XX
+htmlhelpdir=C:\Program Files (x86)\HTML Help Workshop
+include=C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\ATLMFC\include;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\include;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\include\um;C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt;C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared;C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um;C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\winrt;C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\cppwinrt
+lib=C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\ATLMFC\lib\x64;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\lib\x64;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\lib\um\x64;C:\Program Files (x86)\Windows Kits\10\lib\10.0.17763.0\ucrt\x64;C:\Program Files (x86)\Windows Kits\10\lib\10.0.17763.0\um\x64;
+libpath=C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\ATLMFC\lib\x64;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\lib\x64;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\lib\x86\store\references;C:\Program Files (x86)\Windows Kits\10\UnionMetadata\10.0.17763.0;C:\Program Files (x86)\Windows Kits\10\References\10.0.17763.0;C:\Windows\Microsoft.NET\Framework\v4.0.30319;
+localappdata=C:\Users\XX\AppData\Local
+logonserver=\\DESKTOP-FA6EJ55
+netfxsdkdir=C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\
+number_of_processors=16
+nvcudasamples10_0_root=C:\ProgramData\NVIDIA Corporation\CUDA Samples\v10.0
+nvcudasamples9_0_root=C:\ProgramData\NVIDIA Corporation\CUDA Samples\v9.0
+nvcudasamples9_2_root=C:\ProgramData\NVIDIA Corporation\CUDA Samples\v9.2
+nvcudasamples_root=C:\ProgramData\NVIDIA Corporation\CUDA Samples\v9.0
+nvtoolsext_path=C:\Program Files\NVIDIA Corporation\NvToolsExt\
+onedrive=D:\OneDrive
+onedriveconsumer=D:\OneDrive
+original_xdg_current_desktop=undefined
+os=Windows_NT
+path=C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\bin\HostX86\x64;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\bin\HostX86\x86;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCPackages;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\TestWindow;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\bin\Roslyn;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Team Tools\Performance Tools\x64;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Team Tools\Performance Tools;C:\Program Files (x86)\Microsoft Visual Studio\Shared\Common\VSPerfCollectionTools\\x64;C:\Program Files (x86)\Microsoft Visual Studio\Shared\Common\VSPerfCollectionTools\;C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.6.1 Tools\;C:\Program Files (x86)\HTML Help Workshop;C:\Program Files (x86)\Windows Kits\10\bin\10.0.17763.0\x86;C:\Program Files (x86)\Windows Kits\10\bin\x86;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\\MSBuild\15.0\bin;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Tools\;D:\ProgramData\Anaconda3\envs\mybrian\Library\bin;D:\ProgramData\Anaconda3\envs\mybrian\Library\bin;D:\ProgramData\Anaconda3\envs\picture;D:\ProgramData\Anaconda3\envs\picture\Library\mingw-w64\bin;D:\ProgramData\Anaconda3\envs\picture\Library\usr\bin;D:\ProgramData\Anaconda3\envs\picture\Library\bin;D:\ProgramData\Anaconda3\envs\picture\Scripts;D:\ProgramData\Anaconda3\envs\picture\bin;D:\ProgramData\Anaconda3\condabin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.0\libnvvp;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.0\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v9.0\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v9.0\libnvvp;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v9.2\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v9.2\libnvvp;D:\Program Files (x86)\VMware\VMware Workstation\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0;C:\Windows\System32\OpenSSH;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;D:\ProgramData\Anaconda3;D:\ProgramData\Anaconda3\Scripts;D:\ProgramData\Anaconda3\Library\bin;D:\Program Files\nodejs;D:\OpenCV\install\include\opencv2;D:\OpenCV\install\x86\vc15\bin;D:\cuda\include;D:\cuda\bin;D:\cuda\lib;D:\Program Files\MATLAB\R2016b\runtime\win64;D:\Program Files\MATLAB\R2016b\bin;D:\Program Files\MATLAB\R2016b\polyspace\bin;D:\Program Files\Git\cmd;D:\Program Files\MATLAB\MATLAB Compiler Runtime\v82\runtime\win64;C:\Users\XX\AppData\Local\Microsoft\WindowsApps;.;D:\Programs\Microsoft VS Code\bin;C:\Users\XX\AppData\Roaming\npm;D:\texlive\2021\bin\win32;D:\ProgramData\Anaconda3\envs\mybrian\lib\site-packages\scipy\.libs;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\Ninja
+pathext=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.CPL
+platform=x64
+processor_architecture=AMD64
+processor_identifier=AMD64 Family 25 Model 33 Stepping 2, AuthenticAMD
+processor_level=25
+processor_revision=2102
+programdata=C:\ProgramData
+programfiles=C:\Program Files
+programfiles(x86)=C:\Program Files (x86)
+programw6432=C:\Program Files
+prompt=$P$G
+psmodulepath=C:\Users\XX\Documents\WindowsPowerShell\Modules;C:\Program Files\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+public=C:\Users\Public
+pydevd_use_frame_eval=NO
+sessionname=Console
+systemdrive=C:
+systemroot=C:\Windows
+temp=C:\Users\XX\AppData\Local\Temp
+tmp=C:\Users\XX\AppData\Local\Temp
+ucrtversion=10.0.17763.0
+universalcrtsdkdir=C:\Program Files (x86)\Windows Kits\10\
+userdomain=DESKTOP-FA6EJ55
+userdomain_roamingprofile=DESKTOP-FA6EJ55
+username=XX
+userprofile=C:\Users\XX
+vcideinstalldir=C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\
+vcinstalldir=C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\
+vctoolsinstalldir=C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\
+vctoolsredistdir=C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Redist\MSVC\14.16.27012\
+vctoolsversion=14.16.27023
+visualstudioversion=15.0
+vs150comntools=C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\Tools\
+vscmd_arg_app_plat=Desktop
+vscmd_arg_host_arch=x86
+vscmd_arg_tgt_arch=x64
+vscmd_ver=15.9.31
+vsinstalldir=C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\
+vssdk150install=C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VSSDK
+windir=C:\Windows
+term_program=vscode
+term_program_version=1.71.0
+lang=zh_CN.UTF-8
+colorterm=truecolor
+git_askpass=d:\Programs\Microsoft VS Code\resources\app\extensions\git\dist\askpass.sh
+vscode_git_askpass_node=D:\Programs\Microsoft VS Code\Code.exe
+vscode_git_askpass_extra_args=--ms-enable-electron-run-as-node
+vscode_git_askpass_main=d:\Programs\Microsoft VS Code\resources\app\extensions\git\dist\askpass-main.js
+vscode_git_ipc_handle=\\.\pipe\vscode-git-131c4a8ed7-sock
+windowslibpath=C:\Program Files (x86)\Windows Kits\10\UnionMetadata\10.0.17763.0;C:\Program Files (x86)\Windows Kits\10\References\10.0.17763.0
+windowssdkbinpath=C:\Program Files (x86)\Windows Kits\10\bin\
+windowssdkdir=C:\Program Files (x86)\Windows Kits\10\
+windowssdklibversion=10.0.17763.0\
+windowssdkverbinpath=C:\Program Files (x86)\Windows Kits\10\bin\10.0.17763.0\
+windowssdkversion=10.0.17763.0\
+windowssdk_executablepath_x64=C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.6.1 Tools\x64\
+windowssdk_executablepath_x86=C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.6.1 Tools\
+_conda_exe=D:\ProgramData\Anaconda3\Scripts\conda.exe
+_conda_root=D:\ProgramData\Anaconda3
+pythonioencoding=UTF-8
+pythonunbuffered=1
+__dotnet_add_32bit=1
+__dotnet_add_64bit=1
+__dotnet_preferred_bitness=32
+__vscmd_preinit_path=D:\ProgramData\Anaconda3\envs\mybrian\Library\bin;D:\ProgramData\Anaconda3\envs\mybrian\Library\bin;D:\ProgramData\Anaconda3\envs\picture;D:\ProgramData\Anaconda3\envs\picture\Library\mingw-w64\bin;D:\ProgramData\Anaconda3\envs\picture\Library\usr\bin;D:\ProgramData\Anaconda3\envs\picture\Library\bin;D:\ProgramData\Anaconda3\envs\picture\Scripts;D:\ProgramData\Anaconda3\envs\picture\bin;D:\ProgramData\Anaconda3\condabin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.0\libnvvp;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.0\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v9.0\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v9.0\libnvvp;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v9.2\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v9.2\libnvvp;D:\Program Files (x86)\VMware\VMware Workstation\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0;C:\Windows\System32\OpenSSH;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;D:\ProgramData\Anaconda3;D:\ProgramData\Anaconda3\Scripts;D:\ProgramData\Anaconda3\Library\bin;D:\Program Files\nodejs;D:\OpenCV\install\include\opencv2;D:\OpenCV\install\x86\vc15\bin;D:\cuda\include;D:\cuda\bin;D:\cuda\lib;D:\Program Files\MATLAB\R2016b\runtime\win64;D:\Program Files\MATLAB\R2016b\bin;D:\Program Files\MATLAB\R2016b\polyspace\bin;D:\Program Files\Git\cmd;D:\Program Files\MATLAB\MATLAB Compiler Runtime\v82\runtime\win64;C:\Users\XX\AppData\Local\Microsoft\WindowsApps;.;D:\Programs\Microsoft VS Code\bin;C:\Users\XX\AppData\Roaming\npm;D:\texlive\2021\bin\win32;D:\ProgramData\Anaconda3\envs\mybrian\lib\site-packages\scipy\.libs
+py_vcruntime_redist=C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Auxiliary\Build\..\..\redist\MSVC\14.16.27012\onecore\x64\Microsoft.VC141.CRT\vcruntime140.dll
+
+Microsoft (R) 程序维护实用工具 14.16.27045.0 版
+版权所有 (C) Microsoft Corporation。  保留所有权利。
+
+	cl /c /EHsc /I. -Ibrianlib/randomkit -ID:\ProgramData\Anaconda3\envs\mybrian\Library\include /Ox /w  /MP  code_objects/before_run_synapses_1_pre_push_spikes.cpp /Focode_objects\before_run_synapses_1_pre_push_spikes.obj
+用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.16.27045 版
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+before_run_synapses_1_pre_push_spikes.cpp
+	cl /c /EHsc /I. -Ibrianlib/randomkit -ID:\ProgramData\Anaconda3\envs\mybrian\Library\include /Ox /w  /MP  code_objects/before_run_synapses_2_pre_push_spikes.cpp /Focode_objects\before_run_synapses_2_pre_push_spikes.obj
+用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.16.27045 版
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+before_run_synapses_2_pre_push_spikes.cpp
+	cl /c /EHsc /I. -Ibrianlib/randomkit -ID:\ProgramData\Anaconda3\envs\mybrian\Library\include /Ox /w  /MP  code_objects/before_run_synapses_3_pre_push_spikes.cpp /Focode_objects\before_run_synapses_3_pre_push_spikes.obj
+用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.16.27045 版
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+before_run_synapses_3_pre_push_spikes.cpp
+	cl /c /EHsc /I. -Ibrianlib/randomkit -ID:\ProgramData\Anaconda3\envs\mybrian\Library\include /Ox /w  /MP  code_objects/before_run_synapses_pre_push_spikes.cpp /Focode_objects\before_run_synapses_pre_push_spikes.obj
+用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.16.27045 版
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+before_run_synapses_pre_push_spikes.cpp
+	cl /c /EHsc /I. -Ibrianlib/randomkit -ID:\ProgramData\Anaconda3\envs\mybrian\Library\include /Ox /w  /MP  code_objects/neurongroup_1_stateupdater_codeobject.cpp /Focode_objects\neurongroup_1_stateupdater_codeobject.obj
+用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.16.27045 版
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+neurongroup_1_stateupdater_codeobject.cpp
+	cl /c /EHsc /I. -Ibrianlib/randomkit -ID:\ProgramData\Anaconda3\envs\mybrian\Library\include /Ox /w  /MP  code_objects/neurongroup_1_thresholder_codeobject.cpp /Focode_objects\neurongroup_1_thresholder_codeobject.obj
+用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.16.27045 版
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+neurongroup_1_thresholder_codeobject.cpp
+	cl /c /EHsc /I. -Ibrianlib/randomkit -ID:\ProgramData\Anaconda3\envs\mybrian\Library\include /Ox /w  /MP  code_objects/neurongroup_stateupdater_codeobject.cpp /Focode_objects\neurongroup_stateupdater_codeobject.obj
+用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.16.27045 版
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+neurongroup_stateupdater_codeobject.cpp
+	cl /c /EHsc /I. -Ibrianlib/randomkit -ID:\ProgramData\Anaconda3\envs\mybrian\Library\include /Ox /w  /MP  code_objects/neurongroup_thresholder_codeobject.cpp /Focode_objects\neurongroup_thresholder_codeobject.obj
+用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.16.27045 版
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+neurongroup_thresholder_codeobject.cpp
+	cl /c /EHsc /I. -Ibrianlib/randomkit -ID:\ProgramData\Anaconda3\envs\mybrian\Library\include /Ox /w  /MP  code_objects/spikegeneratorgroup_codeobject.cpp /Focode_objects\spikegeneratorgroup_codeobject.obj
+用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.16.27045 版
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+spikegeneratorgroup_codeobject.cpp
+	cl /c /EHsc /I. -Ibrianlib/randomkit -ID:\ProgramData\Anaconda3\envs\mybrian\Library\include /Ox /w  /MP  code_objects/spikemonitor_codeobject.cpp /Focode_objects\spikemonitor_codeobject.obj
+用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.16.27045 版
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+spikemonitor_codeobject.cpp
+	cl /c /EHsc /I. -Ibrianlib/randomkit -ID:\ProgramData\Anaconda3\envs\mybrian\Library\include /Ox /w  /MP  code_objects/synapses_1_pre_push_spikes.cpp /Focode_objects\synapses_1_pre_push_spikes.obj
+用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.16.27045 版
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+synapses_1_pre_push_spikes.cpp
+	cl /c /EHsc /I. -Ibrianlib/randomkit -ID:\ProgramData\Anaconda3\envs\mybrian\Library\include /Ox /w  /MP  code_objects/synapses_1_synapses_create_array_codeobject.cpp /Focode_objects\synapses_1_synapses_create_array_codeobject.obj
+用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.16.27045 版
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+synapses_1_synapses_create_array_codeobject.cpp
+	cl /c /EHsc /I. -Ibrianlib/randomkit -ID:\ProgramData\Anaconda3\envs\mybrian\Library\include /Ox /w  /MP  code_objects/synapses_2_pre_push_spikes.cpp /Focode_objects\synapses_2_pre_push_spikes.obj
+用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.16.27045 版
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+synapses_2_pre_push_spikes.cpp
+	cl /c /EHsc /I. -Ibrianlib/randomkit -ID:\ProgramData\Anaconda3\envs\mybrian\Library\include /Ox /w  /MP  code_objects/synapses_2_synapses_create_array_codeobject.cpp /Focode_objects\synapses_2_synapses_create_array_codeobject.obj
+用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.16.27045 版
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+synapses_2_synapses_create_array_codeobject.cpp
+	cl /c /EHsc /I. -Ibrianlib/randomkit -ID:\ProgramData\Anaconda3\envs\mybrian\Library\include /Ox /w  /MP  code_objects/synapses_3_pre_push_spikes.cpp /Focode_objects\synapses_3_pre_push_spikes.obj
+用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.16.27045 版
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+synapses_3_pre_push_spikes.cpp
+	cl /c /EHsc /I. -Ibrianlib/randomkit -ID:\ProgramData\Anaconda3\envs\mybrian\Library\include /Ox /w  /MP  code_objects/synapses_3_synapses_create_array_codeobject.cpp /Focode_objects\synapses_3_synapses_create_array_codeobject.obj
+用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.16.27045 版
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+synapses_3_synapses_create_array_codeobject.cpp
+	cl /c /EHsc /I. -Ibrianlib/randomkit -ID:\ProgramData\Anaconda3\envs\mybrian\Library\include /Ox /w  /MP  code_objects/synapses_pre_push_spikes.cpp /Focode_objects\synapses_pre_push_spikes.obj
+用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.16.27045 版
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+synapses_pre_push_spikes.cpp
+	cl /c /EHsc /I. -Ibrianlib/randomkit -ID:\ProgramData\Anaconda3\envs\mybrian\Library\include /Ox /w  /MP  code_objects/synapses_synapses_create_array_codeobject.cpp /Focode_objects\synapses_synapses_create_array_codeobject.obj
+用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.16.27045 版
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+synapses_synapses_create_array_codeobject.cpp
+	cl /c /EHsc /I. -Ibrianlib/randomkit -ID:\ProgramData\Anaconda3\envs\mybrian\Library\include /Ox /w  /MP  objects.cpp /Foobjects.obj
+用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.16.27045 版
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+objects.cpp
+	link @sourcefiles.txt /LIBPATH:brianlib/randomkit /LIBPATH:D:\ProgramData\Anaconda3\envs\mybrian\Library\Lib advapi32.lib /LIBPATH:. /OUT:main.exe
+Microsoft (R) Incremental Linker Version 14.16.27045.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+brianlib\randomkit\randomkit code_objects\before_run_synapses_1_pre_push_spikes code_objects\before_run_synapses_2_pre_push_spikes code_objects\before_run_synapses_3_pre_push_spikes code_objects\before_run_synapses_pre_push_spikes code_objects\neurongroup_1_resetter_codeobject code_objects\neurongroup_1_stateupdater_codeobject code_objects\neurongroup_1_thresholder_codeobject code_objects\neurongroup_resetter_codeobject code_objects\neurongroup_stateupdater_codeobject code_objects\neurongroup_thresholder_codeobject code_objects\spikegeneratorgroup_codeobject code_objects\spikemonitor_codeobject code_objects\synapses_1_pre_codeobject code_objects\synapses_1_pre_push_spikes code_objects\synapses_1_synapses_create_array_codeobject code_objects\synapses_2_pre_codeobject code_objects\synapses_2_pre_push_spikes code_objects\synapses_2_synapses_create_array_codeobject code_objects\synapses_3_pre_codeobject code_objects\synapses_3_pre_push_spikes code_objects\synapses_3_synapses_create_array_codeobject code_objects\synapses_pre_codeobject code_objects\synapses_pre_push_spikes code_objects\synapses_synapses_create_array_codeobject main network objects run synapses_classes 
