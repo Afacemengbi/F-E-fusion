@@ -1,4 +1,4 @@
-#SVM算法
+#SVM train and test
  
 import datetime
 
